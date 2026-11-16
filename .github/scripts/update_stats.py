@@ -1,7 +1,8 @@
 """Refresh the stats block in README.md with live GitHub data.
 
-Grade uses the github-readme-stats rank formula and levels (S, A+, A, A-, B+, B, B-, C+, C),
-but scores activity only: stars and followers are left out on purpose.
+Grade uses the github-readme-stats rank formula, scoring activity only (stars and
+followers are left out on purpose). Levels: the standard S..C, plus a custom S++ for
+the top 0.1%.
 """
 import json, os, re, sys, urllib.request
 
@@ -9,7 +10,7 @@ USER = "bardrop"
 # Orgs that are the user's own or team work; not counted as outside open source.
 OWN_ORGS = ["bardrop", "bardrop-oss", "accoladehq", "dealmeridian",
             "technex-iit-bhu", "IIT-BHU-SPORTS-FEST", "VibeSocial"]
-TOKEN = os.environ["GITHUB_TOKEN"]
+TOKEN = os.environ["STATS_TOKEN"]
 HDR = {"Authorization": f"bearer {TOKEN}", "User-Agent": "profile-stats",
        "Accept": "application/vnd.github+json"}
 
@@ -51,8 +52,8 @@ def rank(commits, prs, issues, reviews):
     exp = lambda x: 1 - 2 ** -x
     parts = [(2, exp(commits / 250)), (3, exp(prs / 50)), (1, exp(issues / 25)), (1, exp(reviews / 2))]
     r = 1 - sum(w * v for w, v in parts) / sum(w for w, _ in parts)
-    levels = ["S", "A+", "A", "A-", "B+", "B", "B-", "C+", "C"]
-    cuts = [1, 12.5, 25, 37.5, 50, 62.5, 75, 87.5, 100]
+    levels = ["S++", "S", "A+", "A", "A-", "B+", "B", "B-", "C+", "C"]
+    cuts = [0.1, 1, 12.5, 25, 37.5, 50, 62.5, 75, 87.5, 100]
     return next(l for l, c in zip(levels, cuts) if r * 100 <= c), r * 100
 
 

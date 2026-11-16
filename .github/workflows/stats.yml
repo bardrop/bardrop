@@ -22,7 +22,8 @@ jobs:
           python-version: "3.12"
       - name: Update README stats
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Read-only use of a bardrop token so private work is counted too.
+          STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
         run: python .github/scripts/update_stats.py
       - name: Commit if changed
         run: |
