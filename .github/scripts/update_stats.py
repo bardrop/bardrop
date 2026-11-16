@@ -85,7 +85,8 @@ def main():
     f = lambda n: f"{n:,}"
     # One tile per stat: big number on top, small label under it, in the same cell.
     def tile(value, label):
-        return f'<td align="center" width="25%"><h3>{value}</h3><sub>{label}</sub></td>'
+        label = label.replace(" ", "&nbsp;")  # keep each label on one line
+        return f'<td align="center"><h3>{value}</h3><sub>{label}</sub></td>'
 
     rows = [
         [tile(f"🏅 {s['grade']}", "activity grade"), tile(f(s["prs"]), "PRs opened"),
