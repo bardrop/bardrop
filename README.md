@@ -2,8 +2,6 @@
 
 Java · Python · TypeScript · Go — I find bugs in popular open source and fix them.
 
-**🟢 Open to work**
-
 <a href="https://calendly.com/bardrop/30min"><img src="https://img.shields.io/badge/Book_a_30--min_call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a 30-min call"></a>
 <a href="mailto:mradulsingh524.ms@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
 <a href="https://x.com/shantinaimilti"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"></a>
@@ -56,7 +54,3 @@ Java · Python · TypeScript · Go — I find bugs in popular open source and fi
 |---|---|---|
 | Self-hosted durable control plane for LangGraph agents. | OpenFGA auth gateway for agent tool calls. | Autonomous agent for repo, PR, and Slack workflows. |
 | `Java` | `Java` | `Python` |
-
----
-
-**Hiring for AI or backend? Let's talk →** [calendly.com/bardrop](https://calendly.com/bardrop/30min)
