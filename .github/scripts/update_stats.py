@@ -90,9 +90,9 @@ def main():
     rows = [
         [tile(f"🏅 {s['grade']}", "activity grade"), tile(f(s["prs"]), "PRs opened"),
          tile(f(s["merged"]), "PRs merged"), tile(f(s["commits_all"]), "commits")],
-        [tile(f(s["contribs"]), "contributions (last year)"), tile(f(s["issues"]), "issues opened"),
+        [tile(f(s["contribs"]), "contributions (1 yr)"), tile(f(s["issues"]), "issues opened"),
          tile(f(s["repos"]), "repos contributed to"),
-         tile(f(s["oss_merged"]), f"merged in {f(s['oss_repos'])} outside repos<br>({f(s['big_repos'])} with 1k+ ⭐)")],
+         tile(f(s["oss_merged"]), "OSS PRs merged")],
     ]
     block = "<table>\n" + "".join("<tr>" + "".join(r) + "</tr>\n" for r in rows) + "</table>\n"
     path = os.environ.get("README", "README.md")

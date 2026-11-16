@@ -10,8 +10,8 @@ Java · Python · TypeScript · Go — I find bugs in popular open source and fi
 
 <!-- STATS:START -->
 <table>
-<tr><td align="center" width="25%"><h3>🏅 A+</h3><sub>activity grade</sub></td><td align="center" width="25%"><h3>1,219</h3><sub>PRs opened</sub></td><td align="center" width="25%"><h3>817</h3><sub>PRs merged</sub></td><td align="center" width="25%"><h3>4,440</h3><sub>commits</sub></td></tr>
-<tr><td align="center" width="25%"><h3>3,824</h3><sub>contributions (last year)</sub></td><td align="center" width="25%"><h3>71</h3><sub>issues opened</sub></td><td align="center" width="25%"><h3>290</h3><sub>repos contributed to</sub></td><td align="center" width="25%"><h3>166</h3><sub>merged in 72 outside repos<br>(40 with 1k+ ⭐)</sub></td></tr>
+<tr><td align="center" width="25%"><h3>🏅 A+</h3><sub>activity grade</sub></td><td align="center" width="25%"><h3>1,219</h3><sub>PRs opened</sub></td><td align="center" width="25%"><h3>817</h3><sub>PRs merged</sub></td><td align="center" width="25%"><h3>4,441</h3><sub>commits</sub></td></tr>
+<tr><td align="center" width="25%"><h3>3,824</h3><sub>contributions (1 yr)</sub></td><td align="center" width="25%"><h3>71</h3><sub>issues opened</sub></td><td align="center" width="25%"><h3>290</h3><sub>repos contributed to</sub></td><td align="center" width="25%"><h3>166</h3><sub>OSS PRs merged</sub></td></tr>
 </table>
 <!-- STATS:END -->
 
