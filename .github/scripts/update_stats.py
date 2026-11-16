@@ -83,15 +83,18 @@ def main():
     print(json.dumps(s, indent=1))
 
     f = lambda n: f"{n:,}"
-    block = (
-        f"| 🏅 **{s['grade']}** | **{f(s['prs'])}** | **{f(s['merged'])}** |\n"
-        "|:-:|:-:|:-:|\n"
-        "| activity grade | PRs opened | PRs merged |\n"
-        f"| **{f(s['commits_all'])}** | **{f(s['contribs'])}** | **{f(s['issues'])}** |\n"
-        "| commits | contributions (last year) | issues opened |\n"
-        f"| **{f(s['repos'])}** | **{f(s['oss_merged'])}** | **{f(s['big_repos'])}** |\n"
-        f"| repos contributed to | merged PRs in {f(s['oss_repos'])} outside repos | of those repos with 1k+ ⭐ |\n"
-    )
+    # One tile per stat: big number on top, small label under it, in the same cell.
+    def tile(value, label):
+        return f'<td align="center" width="25%"><h3>{value}</h3><sub>{label}</sub></td>'
+
+    rows = [
+        [tile(f"🏅 {s['grade']}", "activity grade"), tile(f(s["prs"]), "PRs opened"),
+         tile(f(s["merged"]), "PRs merged"), tile(f(s["commits_all"]), "commits")],
+        [tile(f(s["contribs"]), "contributions (last year)"), tile(f(s["issues"]), "issues opened"),
+         tile(f(s["repos"]), "repos contributed to"),
+         tile(f(s["oss_merged"]), f"merged in {f(s['oss_repos'])} outside repos<br>({f(s['big_repos'])} with 1k+ ⭐)")],
+    ]
+    block = "<table>\n" + "".join("<tr>" + "".join(r) + "</tr>\n" for r in rows) + "</table>\n"
     path = os.environ.get("README", "README.md")
     text = open(path).read()
     new = re.sub(r"(<!-- STATS:START -->\n).*?(<!-- STATS:END -->)", lambda m: m[1] + block + m[2], text, flags=re.S)

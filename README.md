@@ -9,13 +9,10 @@ Java · Python · TypeScript · Go — I find bugs in popular open source and fi
 <a href="https://x.com/shantinaimilti"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"></a>
 
 <!-- STATS:START -->
-| 🏅 **A+** | **1,219** | **284** |
-|:-:|:-:|:-:|
-| activity grade | PRs opened | PRs merged |
-| **1,193** | **1,376** | **71** |
-| commits | contributions (last year) | issues opened |
-| **264** | **166** | **40** |
-| repos contributed to | merged PRs in 72 outside repos | of those repos with 1k+ ⭐ |
+<table>
+<tr><td align="center" width="25%"><h3>🏅 A+</h3><sub>activity grade</sub></td><td align="center" width="25%"><h3>1,219</h3><sub>PRs opened</sub></td><td align="center" width="25%"><h3>817</h3><sub>PRs merged</sub></td><td align="center" width="25%"><h3>4,440</h3><sub>commits</sub></td></tr>
+<tr><td align="center" width="25%"><h3>3,824</h3><sub>contributions (last year)</sub></td><td align="center" width="25%"><h3>71</h3><sub>issues opened</sub></td><td align="center" width="25%"><h3>290</h3><sub>repos contributed to</sub></td><td align="center" width="25%"><h3>166</h3><sub>merged in 72 outside repos<br>(40 with 1k+ ⭐)</sub></td></tr>
+</table>
 <!-- STATS:END -->
 
 ### 🏆 Merged into
