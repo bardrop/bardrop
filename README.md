@@ -1,140 +1,59 @@
-<div align="center">
-  <img height="150" src="https://cdn-learn.adafruit.com/guides/images/000/003/613/medium800/Fancy_Octocat_guide_image.png"  />
-</div>
+## AI & Backend Engineer
 
+Java · Python · TypeScript · Go — I find bugs in popular open source and fix them.
 
+**🟢 Open to work**
 
-###
+<a href="https://calendly.com/bardrop/30min"><img src="https://img.shields.io/badge/Book_a_30--min_call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a 30-min call"></a>
+<a href="mailto:mradulsingh524.ms@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+<a href="https://x.com/shantinaimilti"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"></a>
 
-<div align="center">
-<!--   <a href="https://www.linkedin.com/in/tanesha-t-ba7622258" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a> -->
-  <a href="https://x.com/shantinaimilti?t=agIS189lFBmjwPYv5svFSg&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://instagram.com/kyahuzur?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+| **150** | **69** | **38** |
+|:-:|:-:|:-:|
+| merged PRs in open source | outside repos | of them with 1k+ ⭐ |
 
-###
+### 🏆 Merged into
 
-<h1 align="center">hey there 👋</h1>
+[hyperframes](https://github.com/heygen-com/hyperframes) `85k⭐` ·
+[hashcat](https://github.com/hashcat/hashcat) `27k⭐` ·
+[e2e](https://github.com/e2e-inc/e2e) `14k⭐` ·
+[nginx-ui](https://github.com/0xJacky/nginx-ui) `12k⭐` ·
+[node-canvas](https://github.com/Automattic/node-canvas) `11k⭐` ·
+[sentry-javascript](https://github.com/getsentry/sentry-javascript) `9k⭐` ·
+[websocat](https://github.com/vi/websocat) `9k⭐` ·
+[mozilla/rhino](https://github.com/mozilla/rhino) `5k⭐` ·
+[aws/jsii](https://github.com/aws/jsii) `3k⭐` ·
+[apple/servicetalk](https://github.com/apple/servicetalk) `1k⭐`
 
-###
+### 🔧 Top merged PRs
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bardrop&label=Profile%20views&color=0e75b6&style=flat" alt="bardrop" alt="bardrop"  />
-</div>
+| Repo | ⭐ | Fix |
+|---|--:|---|
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes/pull/7673) | 85k | Reject bad numeric flags as usage errors |
+| [hashcat/hashcat](https://github.com/hashcat/hashcat/pull/5106) | 27k | Only detect a shadow line when its ageing fields are numbers |
+| [e2e-inc/e2e](https://github.com/e2e-inc/e2e/pull/1742) | 14k | Reject timeouts above the timer limit |
+| [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui/pull/2120) | 12k | Allow email-length usernames and passwords up to 72 chars |
+| [Automattic/node-canvas](https://github.com/Automattic/node-canvas/pull/2636) | 11k | Fix `isPointInPath()` with a transform |
+| [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript/pull/26349) | 9k | Always return a string from the error enhancer |
+| [vi/websocat](https://github.com/vi/websocat/pull/317) | 9k | Don't write the close reason to the output stream |
+| [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode/pull/3048) | 8k | Allow replace-all with an empty replacement |
+| [aiogram/aiogram](https://github.com/aiogram/aiogram/pull/2007) | 6k | Keep explicit `None` in CallbackData fields |
+| [piqnt/planck.js](https://github.com/piqnt/planck.js/pull/321) | 5k | Fix PolygonShape hull for collinear vertices |
 
-###
+### 🔁 Repeat contributor
 
-<h3 align="left">👩‍💻  About Me</h3>
+[tdewolff/minify](https://github.com/tdewolff/minify/pulls?q=is%3Apr+author%3Abardrop+is%3Amerged) `12 PRs` ·
+[tonaljs/tonal](https://github.com/tonaljs/tonal/pulls?q=is%3Apr+author%3Abardrop+is%3Amerged) `11 PRs` ·
+[TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua/pulls?q=is%3Apr+author%3Abardrop+is%3Amerged) `9 PRs` ·
+[CrossGL/crosstl](https://github.com/CrossGL/crosstl/pulls?q=is%3Apr+author%3Abardrop+is%3Amerged) `9 PRs`
 
-###
+### 🛠 Things I built
 
-<p align="left">I'm SM fan from India.<br><br>- 🔭 I’m working as Senior Software Engineer <br>- 📚 I'm currently using Java with SpringBoot, Go, and Python<br>- ⚡ In my free time I like to be a music critic.<br>- 🤩 I’m working on my 3D Portfolio using Gulpjs, excited to finish it and present it.</p>
+| [agentctl](https://github.com/bardrop/agentctl) | [fga-gateway](https://github.com/bardrop/fga-gateway) | [open-agent-tag](https://github.com/bardrop/open-agent-tag) |
+|---|---|---|
+| Self-hosted durable control plane for LangGraph agents. | OpenFGA auth gateway for agent tool calls. | Autonomous agent for repo, PR, and Slack workflows. |
+| `Java` | `Java` | `Python` |
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dracula&preferLogin=false">    <img  alt="bardrop's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/bardrop?cardType=level-alternate&theme=dracula&preferLogin=false" />  </a>
-</div>
-
-###
-
-###
-
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="" style="max-width: 100%;">
-
-###
-
-<img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-
-###
+**Hiring for AI or backend? Let's talk →** [calendly.com/bardrop](https://calendly.com/bardrop/30min)
