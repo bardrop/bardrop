@@ -9,12 +9,12 @@ Java · Python · TypeScript · Go — I find bugs in popular open source and fi
 <a href="https://x.com/shantinaimilti"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"></a>
 
 <!-- STATS:START -->
-| 🏅 **A+** | **1,219** | **817** |
+| 🏅 **A+** | **1,219** | **284** |
 |:-:|:-:|:-:|
 | activity grade | PRs opened | PRs merged |
-| **4,439** | **3,823** | **71** |
+| **1,193** | **1,376** | **71** |
 | commits | contributions (last year) | issues opened |
-| **290** | **166** | **40** |
+| **264** | **166** | **40** |
 | repos contributed to | merged PRs in 72 outside repos | of those repos with 1k+ ⭐ |
 <!-- STATS:END -->
 
