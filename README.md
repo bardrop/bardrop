@@ -9,7 +9,7 @@ Java · Python · TypeScript · Go — I find bugs in popular open source and fi
 <!-- STATS:START -->
 <table>
 <tr><td align="center"><h3>🏅 A+</h3><sub>activity&nbsp;grade</sub></td><td align="center"><h3>1,249</h3><sub>PRs&nbsp;opened</sub></td><td align="center"><h3>832</h3><sub>PRs&nbsp;merged</sub></td><td align="center"><h3>4,459</h3><sub>commits</sub></td></tr>
-<tr><td align="center"><h3>3,883</h3><sub>contributions&nbsp;(1&nbsp;yr)</sub></td><td align="center"><h3>79</h3><sub>issues&nbsp;opened</sub></td><td align="center"><h3>298</h3><sub>repos&nbsp;contributed&nbsp;to</sub></td><td align="center"><h3>181</h3><sub>OSS&nbsp;PRs&nbsp;merged</sub></td></tr>
+<tr><td align="center"><h3>4,031</h3><sub>contributions&nbsp;(1&nbsp;yr)</sub></td><td align="center"><h3>79</h3><sub>issues&nbsp;opened</sub></td><td align="center"><h3>298</h3><sub>repos&nbsp;contributed&nbsp;to</sub></td><td align="center"><h3>181</h3><sub>OSS&nbsp;PRs&nbsp;merged</sub></td></tr>
 </table>
 <!-- STATS:END -->
 
