@@ -8,8 +8,8 @@ Java · Python · TypeScript · Go — I find bugs in popular open source and fi
 
 <!-- STATS:START -->
 <table>
-<tr><td align="center"><h3>🏅 A+</h3><sub>activity&nbsp;grade</sub></td><td align="center"><h3>1,278</h3><sub>PRs&nbsp;opened</sub></td><td align="center"><h3>847</h3><sub>PRs&nbsp;merged</sub></td><td align="center"><h3>4,499</h3><sub>commits</sub></td></tr>
-<tr><td align="center"><h3>3,975</h3><sub>contributions&nbsp;(1&nbsp;yr)</sub></td><td align="center"><h3>91</h3><sub>issues&nbsp;opened</sub></td><td align="center"><h3>314</h3><sub>repos&nbsp;contributed&nbsp;to</sub></td><td align="center"><h3>194</h3><sub>OSS&nbsp;PRs&nbsp;merged</sub></td></tr>
+<tr><td align="center"><h3>🏅 A+</h3><sub>activity&nbsp;grade</sub></td><td align="center"><h3>1,305</h3><sub>PRs&nbsp;opened</sub></td><td align="center"><h3>867</h3><sub>PRs&nbsp;merged</sub></td><td align="center"><h3>4,519</h3><sub>commits</sub></td></tr>
+<tr><td align="center"><h3>4,028</h3><sub>contributions&nbsp;(1&nbsp;yr)</sub></td><td align="center"><h3>97</h3><sub>issues&nbsp;opened</sub></td><td align="center"><h3>323</h3><sub>repos&nbsp;contributed&nbsp;to</sub></td><td align="center"><h3>214</h3><sub>OSS&nbsp;PRs&nbsp;merged</sub></td></tr>
 </table>
 <!-- STATS:END -->
 
